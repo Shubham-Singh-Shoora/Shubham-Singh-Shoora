@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=CC5500&text=Shubham%20Shoora&fontSize=42&fontColor=36454F&animation=fadeIn" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Shubham-Singh-Shoora/Shubham-Singh-Shoora/main/asset/wave-banner-flat.png" width="100%"/>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Software+Engineer+by+trade;Blockchain+tinkerer+on+the+side;Rust%2C+React%2C+repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=FFFDD0&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Software+Engineer+by+trade;Blockchain+tinkerer+on+the+side;Rust%2C+React%2C+repeat" alt="Typing SVG" />
 
 <br><br>
 
