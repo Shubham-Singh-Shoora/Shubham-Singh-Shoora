@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E293B&height=180&section=header&text=Shubham%20Shoora&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Web3%20%2F%20Frontend&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=CC5500&text=Shubham%20Shoora&fontSize=42&fontColor=36454F&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Hey%2C+I'm+Shubham+%F0%9F%91%8B;I+write+Rust+for+backends+and+React+for+UIs;Currently+shipping+on-chain+governance+tools;IIIT+Sonepat+%E2%80%94+B.Tech+IT+%2723-%2727" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Software+Engineer+by+trade;Blockchain+tinkerer+on+the+side;Rust%2C+React%2C+repeat" alt="Typing SVG" />
 
 <br><br>
 
